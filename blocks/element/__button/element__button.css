@@ -1,0 +1,8 @@
+.element__button {
+    background-image: url(../../../images/Vector.svg);
+    width: 22px;
+    height: 19px;
+    border: none;
+    padding: 0 0 0 22px;
+    margin-top: 5px;
+}
