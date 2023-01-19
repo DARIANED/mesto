@@ -12,17 +12,15 @@
 /*profile*/
 @import url(../blocks/profile/profile.css);
 @import url(../blocks/profile/profile-info/profile-info.css);
+@import url(../blocks/profile/profile-info/__avatar/profile-info__avatar.css);
 @import url(../blocks/profile/profile-info/__name/profile-info__name.css);
 @import url(../blocks/profile/profile-info/__title/profile-info__title.css);
 @import url(../blocks/profile/profile-info/__caption/profile-info__caption.css);
 @import url(../blocks/profile/profile-info/__edit-button/profile-info__edit-button.css);
 @import url(../blocks/profile/__add-button/profile__add-button.css);
 
-/*avatar*/
-@import url(../blocks/avatar/avatar.css);
-
 /*link*/
-@import url(../blocks/link/link.css);
+@import url(../blocks/opacity/opacity.css);
 
 /*element*/
 @import url(../blocks/elements/elements.css);

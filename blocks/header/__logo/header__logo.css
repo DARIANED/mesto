@@ -1,5 +1,4 @@
 .header__logo {
-   background-image: url(../../../images/logo.svg);
    max-width: 142px;
    min-height: 33px;
    margin-bottom: 41px;
@@ -8,8 +7,8 @@
 
 @media screen and (max-width: 320px) {
    .header__logo {
-      background-size: 104px 25px;
-      max-width: 104px;
+      background-size: 106px 25px;
+      max-width: 106px;
       min-height: 25px;
       margin: 28px auto 32px 27px;
    }
