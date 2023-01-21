@@ -6,19 +6,19 @@ const profileInfoTitle = document.querySelector('.profile-info__title');
 const profileInfoCaption = document.querySelector('.profile-info__caption');
 
 const nameInput = document.querySelector('.popup__input_form_name');
-const jobInput = document.querySelector('.popup__inpu_formt_job');
+const jobInput = document.querySelector('.popup__input_form_job');
 
 const popupCloseIcon = document.querySelector('.popup__close-icon');
 
 function openPopup() {
-    popup.classList.add('popup__opened'); 
+    popup.classList.add('popup_opened'); 
     nameInput.value = profileInfoTitle.textContent;
     jobInput.value = profileInfoCaption.textContent;
 
 }
 
 function closePopup() {
-    popup.classList.remove('popup__opened'); 
+    popup.classList.remove('popup_opened'); 
 }
 
 

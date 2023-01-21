@@ -5,11 +5,12 @@
     padding: 0;
     border: none;
     border-radius: 2px;
-    margin: 25px 36px 40px 36px;
+    margin: 14px 36px 37px;
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
     text-align: center;
+    cursor: pointer;
     color: #FFFFFF;
     transition: opacity .3s ease-in;
 }
@@ -22,7 +23,7 @@
     .popup__submit-button {
         width: 238px;
         height: 46px;
-        margin: 28px 22px 26px;
+        margin: 15px 22px 25px;
         font-size: 14px;
         line-height: 17px;
     }
