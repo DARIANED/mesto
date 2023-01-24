@@ -6,70 +6,18 @@
     border: none;
     padding: 0;
     position: absolute;
-    top: 32%;
-    right: 30%;
+    bottom: 340px;
+    left: 440px;
     display: inline-flex;
     cursor: pointer;
 }
-
-@media screen and (max-width: 1180px) {
-    .popup__close-icon {
-       top: 30%;
-       right: 25%;
-    }
- }
-
- @media screen and (max-width: 1020px) {
-    .popup__close-icon {
-       top: 25%;
-    }
- }
-
- @media screen and (max-width: 920px) {
-    .popup__close-icon {
-       background-size: 25px 25px;
-       width: 25px;
-       height: 25px;
-       right: 23%;
-    }
- }
-
- @media screen and (max-width: 820px) {
-    .popup__close-icon {
-       right: 20%;
-    }
- }
-
- @media screen and (max-width: 720px) {
-    .popup__close-icon {
-       top: 26%;
-       right: 12%;
-    }
- }
 
  @media screen and (max-width: 650px) {
     .popup__close-icon {
        background-size: 20px 20px;
        width: 20px;
        height: 20px;
-       right: 27%;
-    }
- }
-
- @media screen and (max-width: 520px) {
-    .popup__close-icon {
-       right: 23%;
-    }
- }
-
- @media screen and (max-width: 420px) {
-    .popup__close-icon {
-       right: 16%;
-    }
- }
-
- @media screen and (max-width: 320px) {
-    .popup__close-icon {
-       right: 6%;
+       bottom: 336px;
+       left: 262px;
     }
  }
